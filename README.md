@@ -38,8 +38,8 @@ The goal of this project is to accurately classify sonar signals as either a roc
 
 ## Results
 
-- **Training Accuracy**: 83.6%
-- **Test Accuracy**: 76.1%
+- **Training Accuracy**: 81.28%
+- **Test Accuracy**: 90.71%
 
 ## How to Use
 
